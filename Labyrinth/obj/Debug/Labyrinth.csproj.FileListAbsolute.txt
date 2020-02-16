@@ -1,0 +1,14 @@
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\bin\Debug\Labirynt.exe.config
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\bin\Debug\Labirynt.exe
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\bin\Debug\Labirynt.pdb
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt.csprojResolveAssemblyReference.cache
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\MainWindow.g.cs
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\App.g.cs
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt_MarkupCompile.cache
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt_MarkupCompile.lref
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\MainWindow.baml
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt.g.resources
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt.Properties.Resources.resources
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.GenerateResource.Cache
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt.exe
+C:\Users\VISION\Source\Repos\CSharpLabirynt\Labirynt\Labirynt\obj\Debug\Labirynt.pdb
